@@ -21,7 +21,6 @@ Sentiment classification on IMDB reviews using a hybrid CNN–BiGRU model with a
 | GRU Baseline | 86.31% | 0.3333 |
 | CNN–BiGRU–Attention | 88.25% | 0.2795 |
 
-Hybrid model improves accuracy by ~2%, showing benefit from combining CNN and BiGRU
 ---
 
 ## Tech Stack

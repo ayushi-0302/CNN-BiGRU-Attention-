@@ -31,5 +31,5 @@ Python, TensorFlow/Keras
 ---
 
 ## Files
-- `notebook.ipynb`
+- `hybrid-sentiment-analysis-imdb.ipynb`
 - `README.md`
